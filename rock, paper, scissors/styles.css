@@ -1,0 +1,27 @@
+body{
+  text-align: center;
+}
+
+.pic{
+  cursor: pointer;
+}
+
+tr {
+  text-align: center;
+}
+
+.choice{
+  padding: 20px;
+}
+
+.result-container{
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameResult{
+  font-size: 38px;
+  font-weight: bold;
+}
